@@ -12,9 +12,6 @@ print ("")
 print ("$$ BY:Sym0SYm $$")
 print ("")
 
-
-
-
 from scapy.all import *
 import threading
 
