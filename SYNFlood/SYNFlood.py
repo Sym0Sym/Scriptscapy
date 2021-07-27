@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-
+#Alterar a porta de a cordo com o servidor
 print ("          _     _ _         _                    _  ")
 print ("         | |   (_) |       | |                  | | ")
 print ("__      _| |__  _| |_ ___  | |__   ___  __ _  __| | ")
