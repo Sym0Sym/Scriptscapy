@@ -16,7 +16,7 @@ from scapy.all import *
 conf.verb = 0
 destino = input("Digite o IP de destino:  ")
 print ("MAC:", getmacbyip(destino))
-portas = [22,80]
+portas = [22,80,443,8080]
 pacoteIP = IP(dst= destino)
 pacoteTCP = TCP(dport=portas, flags="S")
 pacote = pacoteIP/pacoteTCP
