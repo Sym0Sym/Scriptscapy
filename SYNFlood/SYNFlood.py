@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 
-#Alterar a porta de a cordo com o servidor
+#Alterar a porta de a cordo com o destino
+
 print ("          _     _ _         _                    _  ")
 print ("         | |   (_) |       | |                  | | ")
 print ("__      _| |__  _| |_ ___  | |__   ___  __ _  __| | ")
@@ -8,7 +9,7 @@ print ("\ \ /\ / / '_ \| | __/ _ \ | '_ \ / _ \/ _` |/ _` | ")
 print (" \ V  V /| | | | | ||  __/ | | | |  __/ (_| | (_| | ")
 print ("  \_/\_/ |_| |_|_|\__\___| |_| |_|\___|\__,_|\__,_| ")
 print ("")
-print ("$$BY White Head$$")
+print ("$$ BY:Sym0SYm $$")
 print ("")
 
 

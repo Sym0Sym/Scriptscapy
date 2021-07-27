@@ -9,7 +9,7 @@ print ("\ \ /\ / / '_ \| | __/ _ \ | '_ \ / _ \/ _` |/ _` | ")
 print (" \ V  V /| | | | | ||  __/ | | | |  __/ (_| | (_| | ")
 print ("  \_/\_/ |_| |_|_|\__\___| |_| |_|\___|\__,_|\__,_| ")
 print ("")
-print ("$$BY Sym0SYm$$")
+print ("$$ BY:Sym0SYm $$")
 print ("")
 
 from scapy.all import *
