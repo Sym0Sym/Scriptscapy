@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-#IP MAC and Scanner
+#IP-MAC  Scanner
 
 print ("          _     _ _         _                    _  ")
 print ("         | |   (_) |       | |                  | | ")
