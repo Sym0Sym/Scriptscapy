@@ -7,10 +7,10 @@ __      _| |__  _| |_ ___  | |__   ___  __ _  __| |
  \ V  V /| | | | | ||  __/ | | | |  __/ (_| | (_| |
   \_/\_/ |_| |_|_|\__\___| |_| |_|\___|\__,_|\__,_|
 
-                 $$ BY:Sym0SYm $$
+                 $$ BY:Sym0Sym $$
 
 
 
 Quando for executar o script, o scapy só deixa executar como root.
-- #sudo su
-- python3 script.py
+- $sudo su
+- #python3 script.py
