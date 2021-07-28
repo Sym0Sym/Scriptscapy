@@ -2,7 +2,6 @@
 
 #Alterar a porta de a cordo com o destino
 
-
 print ('\033[32m'"SYN - Flood"'\033[32m')
 print ('\033[37m'"          _     _ _         _                    _  "'\033[37m')
 print ('\033[37m'"         | |   (_) |       | |                  | | "'\033[37m')

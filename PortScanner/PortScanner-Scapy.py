@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-#MAC-IP  Scanner
+#MAC-IP Scanner
 
 print ('\033[32m'"Port-Scanner"'\033[32m')
 print ('\033[37m'"          _     _ _         _                    _  "'\033[37m')
