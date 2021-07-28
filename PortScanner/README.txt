@@ -6,4 +6,4 @@ Obs:
 
 - Setar as portas que serão escaneadas
 
-- Para as portas que estão apertados o estado é 'SA' 
+- Para as portas que estão apertados o estado será='SA' 
