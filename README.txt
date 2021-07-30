@@ -1,4 +1,4 @@
-Scripts utilizando a linguagem python com a biblioteca scapy.
+Scripts utilizando a linguagem python, alguns com a biblioteca scapy.
 
           _     _ _         _                    _
          | |   (_) |       | |                  | |
