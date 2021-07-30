@@ -11,6 +11,10 @@ __      _| |__  _| |_ ___  | |__   ___  __ _  __| |
 
 
 
-Quando for executar o script, o scapy só deixa executar como root.
+Quando for executar o scripts que usam a lib scapy,  executar como root.
 - $sudo su
 - #python3 script.py
+
+
+A estrutura de todos os códigos aqui postado foram retirados de livros e cursos.
+Aprendendo a estrutura basica do codigo temos conhecimento necessario para implementar novas funcionalidades, tornando ocodigo mais eficiente possivel.
