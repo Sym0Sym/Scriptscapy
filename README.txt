@@ -16,5 +16,5 @@ Quando for executar o scripts que usam a lib scapy,  executar como root.
 - #python3 script.py
 
 
-A estrutura de todos os códigos aqui postado foram retirados de livros e cursos.
+A estrutura de todos os códigos aqui postados foram retirados de livros e cursos.
 Aprendendo a estrutura basica do codigo temos conhecimento necessario para implementar novas funcionalidades, tornando ocodigo mais eficiente possivel.
